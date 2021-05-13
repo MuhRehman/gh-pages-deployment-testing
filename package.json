@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yuribenjamin.github.io/my-app",
+  "homepage": "https://muhrehman.github.io/gh-pages-deployment-testing/",
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
